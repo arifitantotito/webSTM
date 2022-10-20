@@ -1,0 +1,15 @@
+.bggg {
+    background-color: #133f85;
+}
+@media (min-width: 768px) {
+    .md\:bgg {
+        --tw-bg-opacity: 1;
+        background-color: #152238;
+    }
+}
+@media (min-width: 1024px) {
+    .lg\:bek {
+        --tw-bg-opacity: 1;
+        background-color: #152238;
+    }
+}
